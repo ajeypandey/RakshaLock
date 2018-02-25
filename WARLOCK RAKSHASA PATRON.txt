@@ -1,0 +1,61 @@
+The Rakshasa are a curious race of creatures: mystical shapeshifters, bearing fangs and flaming red eyes. They weild the power of Maya: illusion, invisibility, and the power to bear the form of any other creature. One has offered you salvation from your meagre past, in exchange for finding great relics for their collection. You gave up your name, your homeland, and most memories of your past. And in return, you received some of their gifts of Maya. Examples: Ravana, King of Lanka; Alamvusha, knight of the Kauravas' army.
+
+EXPANDED SPELL LIST:
+1st: DISGUISE SELF, SILENT IMAGE
+2nd: ENLARGE/REDUCE, INVISIBILITY
+3rd: FLY, TONGUES
+4th: GREATER INVISIBILITY, POLYMORPH
+5th: MISLEAD, SEEMING
+
+(LVL 1) BODY OF THE FACELESS ONES: You sacrifice all prior racial traits. Instead, you receive:
+	INT/WIS/CHA Roll 4d6, sum highest 3 values. Add +1 to each value. These values carries over between bodies.
+	LANGUAGES: You can speak, read, and write Common and three other languages of your choice.
+	TRAVELLER'S KNOWLEDGE: Your new life as a wanderer without a homeland has shown you every corner of the world. You gain proficiency in the History skill.
+
+(LVL 1) MARK OF THE FACELESS ONES: You now have gleaming red eyes and a strange mark upon your collarbone. Once per day, you can place your hand upon that mark and conduct a 10-second ritual to assume a new body. This new body is recognizable as part of an ethnic group, but not as an individual, and can have scars and signs of age. A voice from Beyond will provide you a name, homeland, and sample occupation, which are all consistent with the features of your new body. You will not receive language proficiencies, accents, or skills.
+	Each new body requires re-rolling race, STR, DEX, CON, hit dice, and MAXHP. New body has same current HP as old body. If new body's MAXHP is lower than old body's current HP, then current HP is taken down to new body's MAXHP.
+	
+RACE: Roll 1d10
+1: Dwarf: +1 CON, -1 DEX
+	MED 25 ft
+2: Elf: +1 DEX, -1 CON
+	MED 30 ft
+3: Halfling: +1 DEX, -1 STR
+	SML 25 ft
+4: Human: No bonuses
+	MED 30 ft
+5: Dragonborn: +1 STR, -1 CON
+	MED 30 ft
+6: Gnome: No bonuses
+	SML 25 ft
+7: Half-Elf: No bonuses
+	MED 30 ft
+8: Half-Orc +1 STR, +1 CON, -2 DEX
+	MED 30 ft
+9: Tiefling: No bonuses
+	MED 30 ft
+10: Keep previous race
+
+STR/DEX/CON: Roll 4d6, sum highest 3 rolls. 
+
+HP: 8+1d8 per level + CON*LVL.
+
+(LVL 1) CLOAK OF THE FACELESS ONES: Your patron gifts you a plain black cloak imbued with Maya. This cloak automatically fits your body, and will resize with each new body.
+
+(LVL 6) COMBAT MISDIRECTION: You manifest an illusory copy of yourself as you dodge away from an attack, and you use the opening to exact immediate revenge. You impose disadvantage on a creature attacking you. If the attack misses, you can use a reaction to attack the creature yourself. This ability replenishes on a short or long rest.
+
+(LVL 10) SHAPESHIFTING ATTIRE: Your cloak is imbued with powerful shapeshifting magic. Once per day, you can spend an action to transform the cloak into armor or clothing of your choice, providing you with an AC of up to 13+DEX. If you examine an outfit or set of armor in your hands for 1 minutes or in person for 5 minutes, you can perfectly replicate the look and feel of that attire.
+
+(LVL 14) SOULEATER: End a mortal and take their form. Deal 6d10 necrotic damage on a humanoid within sight of you. If the target is brought to 0 HP, they turn to ash, and you take their appearance and their STR, DEX, CON, and MAXHP scores. You do not immediately take up their attire. Your physical form is indistinguishable from your target. You can invoke this ability even if you have already taken up a new body. This ability replenishes on a long rest.
+
+INVOCATIONS:
+
+TOME OF THE WANDERER: (Tome Pact). 1x/day, read your Book of Shadows for information about your surroundings. You can ask for 1 of the following:
+- Etiquette of local culture
+- Political structure of closest city or state
+- Major events of past year
+- Location of black markets and secret passageways
+
+WEAPONRY OF THE WANDERER: (Blade Pact). On an action, target a creature weilding weaponry within 60 feet of you. The weaponry the creature is immediately weilding flies toward you, including shields and loosely fastened ammunition holders, resting upon your person. The weaponry becomes your Pact Weapon, you become proficient in that weaponry while you wield it, and the target is left unarmed. You cannot repeat this action until you have completed a short or long rest.
+
+VOICE OF THE WANDERER (Chain Pact). Upon taking up a new body, your voice changes in accordance with the ethnicity and occupation of that new body, including accents, such that your voice is indistinguishable from that of a person from the homeland and occuptation related to your new body. You also gain Advantage on all skill checks related to information about your homeland, occupation, and clan, if applicable. When you switch to another body, the information you gain Advantage on changes accordingly.
